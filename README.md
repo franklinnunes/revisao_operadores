@@ -1,2 +1,2 @@
 # revisao_operadores
-revisãozinha, só praticando....
+REvisão sobre operadores.
